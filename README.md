@@ -1,4 +1,4 @@
-### ¡Hola! Soy Federico Rosales, un entusiasta del desarrollo web con una fuerte motivación para aprender y crecer en equipo. Con experiencia en tecnologías como JavaScript, TypeScript, Angular, React y Express, me destaco en la creación de aplicaciones robustas con bases de datos como PostgreSQL y MongoDB. Manejo Redux, Node y rjsx para crear experiencias interactivas, y tengo habilidades en CSS, Sass y Bootstrap para diseñar interfaces atractivas.
+### ¡Hola! Bienvenido a mi perfil.
 
 
 - 📫 Contactame por E-mail: federico.rosales.salva@gmail.com.
